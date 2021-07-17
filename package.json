@@ -19,5 +19,9 @@
   "homepage": "https://github.com/ttanimarefin/Mobile-Shopee-E-Commerce-Website#readme",
   "devDependencies": {
     "node-sass": "^6.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "owl.carousel": "^2.3.4"
   }
 }
